@@ -1329,7 +1329,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-wifi-2::before { content: "\f61a"; }
 .bi-wifi-off::before { content: "\f61b"; }
 .bi-wifi::before { content: "\f61c"; }
-.bi-air::before { content: "\f61d"; }
+.bi-wind::before { content: "\f61d"; }
 .bi-window-dock::before { content: "\f61e"; }
 .bi-window-sidebar::before { content: "\f61f"; }
 .bi-window::before { content: "\f620"; }

@@ -3368,7 +3368,7 @@
   .bx-wifi-off:before {
     content: "\ec80";
   }
-  .bx-air:before {
+  .bx-wind:before {
     content: "\ec81";
   }
   .bx-window:before {

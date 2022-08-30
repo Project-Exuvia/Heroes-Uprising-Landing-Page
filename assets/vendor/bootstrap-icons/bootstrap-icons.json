@@ -1308,7 +1308,7 @@
   "wifi-2": 63002,
   "wifi-off": 63003,
   "wifi": 63004,
-  "air": 63005,
+  "wind": 63005,
   "window-dock": 63006,
   "window-sidebar": 63007,
   "window": 63008,
