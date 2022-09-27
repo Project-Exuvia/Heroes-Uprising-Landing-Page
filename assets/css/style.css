@@ -1876,6 +1876,15 @@ section {
 
 .logos img {
   height: 6.2rem;
-  filter: brightness(0) invert(1);
   opacity: 75%;
+}
+/* -------------------GAMEPLAY------------------ */
+.gameplay {
+height: auto;
+max-width: 100%;
+
+}
+.gameplay-ui {
+  height: auto;
+  max-width: 100%;
 }
