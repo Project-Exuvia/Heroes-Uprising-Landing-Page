@@ -1876,7 +1876,7 @@ section {
 
 .logos img {
   height: 6.2rem;
-  opacity: 75%;
+  opacity: 100%;
 }
 /* -------------------GAMEPLAY------------------ */
 .gameplay {
@@ -1887,4 +1887,48 @@ max-width: 100%;
 .gameplay-ui {
   height: auto;
   max-width: 100%;
+}
+
+/*--------------------------------------------------------------
+# powered
+--------------------------------------------------------------*/
+.powered {
+  background: linear-gradient(rgba(2, 2, 2, 0.7), rgba(0, 0, 0, 0.7)), url("../img/partners/bg-tokeno.jpg") fixed center center;
+  background-size: cover;
+  padding: 60px 0;
+}
+.powered img {
+opacity: 100%;
+}
+
+.powered h2 {
+  color: #ffffff;
+  font-size: 76px;
+  font-weight: 700;
+  font-family: var(--title-font);
+}
+
+.powered p {
+  color: #fff;
+  font-family: var(--body-font);
+}
+
+.powered .powered-btn {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 25px;
+  transition: 0.8s;
+  margin-top: 10px;
+  border: 2px solid #FF7E02;
+  color: #fff;
+}
+
+.powered .powered-btn:hover {
+  background: #d57f41;
+  border: 2px solid #FF7E02;
 }
