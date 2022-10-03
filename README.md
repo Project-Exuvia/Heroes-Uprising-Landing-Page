@@ -1,1 +1,1 @@
-# Heroes-Uprising-Landing-Page V 1.1.3
+# Heroes-Uprising-Landing-Page V 1.1.4
